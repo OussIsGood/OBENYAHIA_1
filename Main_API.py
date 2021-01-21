@@ -1,7 +1,12 @@
 from flask import Flask, request, Response
 from flask import jsonify
 
+<<<<<<< HEAD
 #ceci est un deuxieme commentaire
+=======
+
+# ceci est un test dajout
+>>>>>>> 8b7d5576f682813441e877bda75990c24b766085
 
 
 app = Flask(__name__)
